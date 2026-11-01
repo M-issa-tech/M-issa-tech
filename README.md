@@ -91,7 +91,6 @@ Als ausgebildeter **Fachinformatiker für Systemintegration** verbinde ich tradi
   </table>
 </div>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learn-0078D4?style=for-the-badge&logo=readme&logoColor=white" />
