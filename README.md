@@ -48,16 +48,50 @@ Als ausgebildeter **Fachinformatiker für Systemintegration** verbinde ich tradi
 
 ## 🏆 Zertifikate & Qualifikationen
 
-| Bereich | Zertifikat | Aussteller & Datum |
-| :--- | :--- | :--- |
-| ☁️ **Cloud & Microsoft** | Azure Administrator Associate | Microsoft · Okt 2024 |
-| | M365: Administrator Expert | Microsoft · Sep 2024 |
-| | M365: Endpoint Administrator Associate | Microsoft · Aug 2024 |
-| | AWS Certified Cloud Practitioner | Amazon Web Services · Nov 2024 |
-| 🐧 **Linux & Network** | LPIC-1: Linux System Administrator | Linux Professional Institute · Jan 2025 |
-| | Cisco Certified Network Associate (CCNA) | Cisco · Apr 2025 |
-| 🔄 **Agile & Security** | Professional Scrum Master I (PSM I) | Scrum.org · Mär 2024 |
-| | Datenschutzschulung Basis | Proliance 360 · Dez 2025 |
+<div align="center">
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <!-- Erste Reihe (4 Badges) -->
+    <tr style="border: none;">
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/Microsoft Certified Azure Administrator Associate.png" width="120" alt="Azure Administrator" /><br>
+        <sub><b>Microsoft · Okt 2024</b></sub>
+      </td>
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/Microsoft 365 Certified Administrator Expert.png" width="120" alt="M365 Expert" /><br>
+        <sub><b>Microsoft · Sep 2024</b></sub>
+      </td>
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/Microsoft 365 Certified Endpoint Administrator Associate.png" width="120" alt="M365 Endpoint" /><br>
+        <sub><b>Microsoft · Aug 2024</b></sub>
+      </td>
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/AWS Certified Cloud Practitioner.png" width="120" alt="AWS Practitioner" /><br>
+        <sub><b>Amazon Web Services · Nov 2024</b></sub>
+      </td>
+    </tr>
+    <!-- Zweite Reihe (4 Badges) -->
+    <tr style="border: none;">
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/LPIC-1 Linux Administrator.png" width="120" alt="LPIC-1" /><br>
+        <sub><b>Linux Professional Institute · Jan 2025</b></sub>
+      </td>
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/Cisco Certified Network Associate.png" width="120" alt="Cisco CCNA" /><br>
+        <sub><b>Cisco · Apr 2025</b></sub>
+      </td>
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/PROFESSIONAL CERTIFICATION PROFESSIONAL SCRUM MASTER I.png" width="120" alt="PSM I" /><br>
+        <sub><b>Scrum.org · Mär 2024</b></sub>
+      </td>
+      <td align="center" style="padding: 12px; border: none; vertical-align: top;">
+        <img src="badges/Datenschutzschulung Basis.png" width="120" alt="Datenschutz Basis" /><br>
+        <sub><b>Proliance 360 · Dez 2025</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/Learn-0078D4?style=for-the-badge&logo=readme&logoColor=white" />
